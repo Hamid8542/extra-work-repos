@@ -31,4 +31,4 @@ let add2 = function(number) {
 
 # Links : Markdown syntax for a hyperlink is square brackets followed by parentheses. The square brackets hold the text, the parentheses hold the link.
 
-[Link text Here](https://www.miu.edu/home)
+# [Link text Here](https://www.miu.edu/home)
