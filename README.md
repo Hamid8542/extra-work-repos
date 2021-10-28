@@ -6,7 +6,7 @@
 ###### H6  -Header6 - The lowest font 
 
 # Bold a text
-# This is ** Abdulhamid Ibrahim ** @MIU
+ This is ** Abdulhamid Ibrahim ** @MIU
 
 # Code : to denote a word or phrase as code , we need to enclosed it in backticks(`)
 
@@ -31,4 +31,4 @@ let add2 = function(number) {
 
 # Links : Markdown syntax for a hyperlink is square brackets followed by parentheses. The square brackets hold the text, the parentheses hold the link.
 
-# [Link text Here](https://www.miu.edu/home)
+# [Link text Here](https://github.com/Hamid8542?tab=repositories)
