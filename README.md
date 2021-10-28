@@ -6,7 +6,7 @@
 ###### H6  -Header6 - The lowest font 
 
 # Bold a text
- This is ** Abdulhamid Ibrahim ** @MIU
+# This is ** Abdulhamid Ibrahim ** @MIU
 
 # Code : to denote a word or phrase as code , we need to enclosed it in backticks(`)
 
